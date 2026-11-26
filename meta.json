@@ -1,0 +1,23 @@
+{
+  "repo": "rstudio-workbench-enterprise",
+  "product": "Rstudio Workbench Enterprise",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "rstudio-workbench",
+    "how-to-install-rstudio-workbench",
+    "how-to-setup-rstudio-workbench",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "studio-software",
+    "creative-workflow",
+    "desktop-app"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Rstudio Workbench Enterprise"
+}
